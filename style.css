@@ -181,3 +181,15 @@ main {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+@media only screen and (max-width: 850px) {
+.dashboard{width: 300px;}
+.glass{width: 400px;}
+
+}
+
+@media only screen and (max-width: 450px) {
+  .dashboard{width: 80px;}
+  .glass{width: 300px;}
+  
+}
+/* I take this L */
